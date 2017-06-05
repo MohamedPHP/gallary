@@ -1,5 +1,3 @@
-
-    <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -22,7 +20,7 @@
                         <a href="#">Services</a>
                     </li>
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="admin">Admin</a>
                     </li>
                 </ul>
             </div>
@@ -30,3 +28,5 @@
         </div>
         <!-- /.container -->
     </nav>
+<!-- Page Content -->
+<div class="container">
